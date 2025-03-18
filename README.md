@@ -1,6 +1,4 @@
-# OpenAI-Azure
-
-## Reconhecimento de Textos em Imagens com o Azure Computer Vision
+# OpenAI - Azure: Reconhecimento de Textos em Imagens com o Azure Computer Vision
 
 Este projeto explora o uso do **Azure Computer Vision** para reconhecimento de textos em imagens, permitindo a extração automática de textos para diversas aplicações.
 
